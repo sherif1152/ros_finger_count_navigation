@@ -20,7 +20,7 @@
 - move_base
 ## Installation
 
-1. **Install ROS Noetic** following the instructions from the official [ROS installation guide](http://wiki.ros.org/noetic/Installation).
+1. **Install ROS Noetic** following the instructions from the official [ROS installation guide](https://github.com/arab-meet/2.ROS-Basics-Workshop/blob/main/ROS%20Introduction%20And%20Installation/source/ROS%20installation%20and%20setup.md).
 
 2. **Install dependencies**:
     ```bash
